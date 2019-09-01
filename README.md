@@ -1,6 +1,8 @@
-# Drum Kit Application :musical_score:
+# Drum Kit App :musical_score:
 
-[View The Application Here](https://vanillajsdrumkit.netlify.com)
+# [View The Application Here](https://vanillajsdrumkit.netlify.com)
+
+![Drumkit Gif](https://github.com/chrisstaudinger/Drumkit-App-Vanilla-JS/blob/master/assets/images/drumkit1.gif?raw=true "Drumkit Gif")
 
 ### Purpose
 
